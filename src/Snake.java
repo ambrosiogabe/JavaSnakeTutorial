@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.geom.Rectangle2D;
 
 public class Snake {
-    public Rect[] body = new Rect[100];
+    public Rect[] body = new Rect[30];
     public double bodyWidth, bodyHeight;
 
     public int size;

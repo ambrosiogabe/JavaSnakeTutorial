@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7050cfc9-2fbc-4c5e-b479-d43635178182" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Snake/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Food.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Snake/GameScene.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/GameScene.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/KL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/KL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/ML.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/ML.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/MenuScene.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/MenuScene.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/Rect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Rect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/Scene.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Scene.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Snake/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameScene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/Window.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RQTzxoISpZ9UPK9CjqQQC1XXhl" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>

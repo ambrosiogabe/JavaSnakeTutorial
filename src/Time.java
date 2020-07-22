@@ -1,5 +1,9 @@
+import java.time.Duration;
+import java.time.Instant;
+
 public class Time {
     public static double timeStarted = System.nanoTime();
+    public static Instant instantStarted = Instant.now();
 
-    public static double getTime() { return (System.nanoTime() - timeStarted) * 1E-9; }
+    public static double getTime() { return Duration.between(instantStarted, Instant.now()).toNanos() * 10E-9; }
 }
